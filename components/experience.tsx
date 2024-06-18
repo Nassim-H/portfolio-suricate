@@ -18,7 +18,7 @@ const experiences = {
   ],
   clientProjects: [
     {
-      title: 'SIte vitrine',
+      title: 'Site vitrine',
       client: 'Particulier',
       period: '2024',
       description: "Conception d'une charte graphique et Développement d'un site vitrine responsive",
