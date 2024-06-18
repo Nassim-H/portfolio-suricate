@@ -51,7 +51,7 @@ const questions = [
     question: "Pourquoi est-ce que je candidate au poste de Développeur Full-Stack ?",
     answer: (
         <span>
-Grâce à mon expérience et ma formation <b>autodidacte</b> en développement web, j'ai découvert une passion pour tout ce qui touche au développement, tant <em>Back-End</em> que <em>Front-End</em>. J'ai principalement travaillé avec <b>PHP Laravel</b> et <b>Python Flask</b> pour le <em>Back-End</em>, et j'ai également approfondi mes compétences en design web et <em>Front-End</em>, notamment avec <b>React</b> et <b>Next.JS</b>. Ce poste chez Suricate Concept est une opportunité idéale pour combiner mes compétences et créer des projets <b>innovants</b> et <b>utiles</b> pour la société.        </span>
+Grâce à mon expérience et ma formation <b>autodidacte</b> en développement web, j&apos;ai découvert une passion pour tout ce qui touche au développement, tant <em>Back-End</em> que <em>Front-End</em>. J&apos;ai principalement travaillé avec <b>PHP Laravel</b> et <b>Python Flask</b> pour le <em>Back-End</em>, et j'ai également approfondi mes compétences en design web et <em>Front-End</em>, notamment avec <b>React</b> et <b>Next.JS</b>. Ce poste chez Suricate Concept est une opportunité idéale pour combiner mes compétences et créer des projets <b>innovants</b> et <b>utiles</b> pour la société.        </span>
     )
   
   },
@@ -59,21 +59,21 @@ Grâce à mon expérience et ma formation <b>autodidacte</b> en développement w
     question: "Et pourquoi est-ce que je souhaite intégrer Suricate Concept ?",
     answer:  (
         <span>
-J'ai découvert votre entreprise au cours de mes études et votre image de marque m'a particulièrement marquée, mais pas que. En effet, votre désir et ambition de travailler dans différents secteurs avec une expertise dans la <b>cybersécurité</b>, la <b>formation</b> et le <b>webmarketing</b> m'a particulièrement attiré. Je souhaite donc intégrer Suricate Concept pour élargir mes connaissances et contribuer à des projets <b>significatifs</b> et <b>innovants</b>. De plus, votre engagement à proposer votre expertise partout dans le monde, notamment en <b>Algérie</b>, me touche particulièrement, car je souhaite contribuer au développement de mon pays.        </span>
+J&apos;ai découvert votre entreprise au cours de mes études et votre image de marque m&apos;a particulièrement marquée, mais pas que. En effet, votre désir et ambition de travailler dans différents secteurs avec une expertise dans la <b>cybersécurité</b>, la <b>formation</b> et le <b>webmarketing</b> m&apos;a particulièrement attiré. Je souhaite donc intégrer Suricate Concept pour élargir mes connaissances et contribuer à des projets <b>significatifs</b> et <b>innovants</b>. De plus, votre engagement à proposer votre expertise partout dans le monde, notamment en <b>Algérie</b>, me touche particulièrement, car je souhaite contribuer au développement de mon pays.        </span>
       )
 },
   {
     question: "Quelle expérience ais-je acquéris dans le monde professionnel ?",
     answer: (
         <span>
-Étant encore en sortie d'étude d'un B.U.T Informatique, mon expérience professionnelle est limitée, mais loin d'être inexistante. J'ai réalisé deux stages en entreprise, d'une durée totale de plus de quatre mois. Cette expérience m'a préparée au monde professionnel dans des postes de développeur Full-Stack où j'ai pu alterner entre <em>Back-End</em> et <em>Front-End</em>. J'ai également une expérience professionnelle en tant qu'indépendant, notamment dans le développement mobile en <b>React Native</b> (j'aime apprendre !!). Bien que non professionnelle, mes études m'ont permis de me préparer au monde du travail notamment avec divers projets en équipe avec l'utilisation de <b>Git</b> et de méthodes <b>agiles</b>.        </span>
+Étant encore en sortie d&apos;étude d&apos;un B.U.T Informatique, mon expérience professionnelle est limitée, mais loin d&apos;être inexistante. J&apos;ai réalisé deux stages en entreprise, d&apos;une durée totale de plus de quatre mois. Cette expérience m&apos;a préparée au monde professionnel dans des postes de développeur Full-Stack où j&apos;ai pu alterner entre <em>Back-End</em> et <em>Front-End</em>. J&apos;ai également une expérience professionnelle en tant qu&apos;indépendant, notamment dans le développement mobile en <b>React Native</b> (j&apos;aime apprendre !!). Bien que non professionnelle, mes études m&apos;ont permis de me préparer au monde du travail notamment avec divers projets en équipe avec l&apos;utilisation de <b>Git</b> et de méthodes <b>agiles</b>.        </span>
       )
 },
   {
     question: "Quels sont mes projets à long terme ?",
     answer: (
         <span>
-À long terme, je souhaite contribuer positivement au développement de mon pays d'origine : l'Algérie, en apportant mes <b>compétences</b> et mon <b>savoir-faire</b> dans le domaine du développement web. Je souhaite également continuer à me former et à apprendre de nouvelles <b>technologies</b> pour rester à jour et <b>compétitif</b>.        </span>
+À long terme, je souhaite contribuer positivement au développement de mon pays d&apos;origine : l&apos;Algérie, en apportant mes <b>compétences</b> et mon <b>savoir-faire</b> dans le domaine du développement web. Je souhaite également continuer à me former et à apprendre de nouvelles <b>technologies</b> pour rester à jour et <b>compétitif</b>.        </span>
       )
 },
 

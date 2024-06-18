@@ -14,7 +14,7 @@ const PourquoiSuricate: React.FC = () => {
             <div>
               <h3 className="text-2xl font-semibold text-gray-800">Innovation</h3>
               <p className="mt-2 text-gray-600">
-                Suricate Concept est à la pointe de l'innovation en cybersécurité, développant des solutions avancées pour protéger les systèmes d'information, notamment dans la santé.
+                Suricate Concept est à la pointe de lbg-secondaryinnovation en cybersécurité, développant des solutions avancées pour protéger les systèmes dbg-secondaryinformation, notamment dans la santé.
               </p>
             </div>
           </div>
@@ -25,7 +25,7 @@ const PourquoiSuricate: React.FC = () => {
             <div>
               <h3 className="text-2xl font-semibold text-gray-800">Expertise</h3>
               <p className="mt-2 text-gray-600">
-                L'expertise de l'équipe de Suricate Concept garantit non seulement des solutions robustes et fiables, mais aussi diverses et variées, de la cybersécurité à la formation et sensibilisation en passant par le webmarketing. Curieux et passionné du monde digital, devenir un Suricate me permettra d'élargir mes connaissances
+                Lbg-secondaryexpertise de lbg-secondaryéquipe de Suricate Concept garantit non seulement des solutions robustes et fiables, mais aussi diverses et variées, de la cybersécurité à la formation et sensibilisation en passant par le webmarketing. Curieux et passionné du monde digital, devenir un Suricate me permettra dbg-secondaryélargir mes connaissances
               </p>
             </div>
           </div>
@@ -36,7 +36,7 @@ const PourquoiSuricate: React.FC = () => {
             <div>
               <h3 className="text-2xl font-semibold text-gray-800">Engagement</h3>
               <p className="mt-2 text-gray-600">
-                Suricate Concept s'engage à proposer son expertise partout dans le monde, notamment en Algérie. Contribuer au développement de mon pays est une valeur importante pour moi. Avec Suricate Concept, c'est possible !
+                Suricate Concept sbg-secondaryengage à proposer son expertise partout dans le monde, notamment en Algérie. Contribuer au développement de mon pays est une valeur importante pour moi. Avec Suricate Concept, cbg-secondaryest possible !
               </p>
             </div>
           </div>

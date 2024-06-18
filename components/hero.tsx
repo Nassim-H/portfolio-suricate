@@ -1,6 +1,7 @@
 // components/Hero.tsx
 
 import React from 'react';
+import Image from 'next/image'; // Import the Image component from the correct package
 
 const Hero: React.FC = () => {
   return (
@@ -14,7 +15,7 @@ const Hero: React.FC = () => {
           </a>
         </div>
         <div className="md:w-1/2 mt-8 md:mt-0 flex justify-center md:justify-end">
-          <img src="suricate-bebe.webp" alt="Illustration" className="w-full h-auto rounded-lg shadow-lg" />
+          <Image src="suricate-bebe.webp" alt="Illustration" className="w-full h-auto rounded-lg shadow-lg" />
         </div>
       </div>
     </section>
