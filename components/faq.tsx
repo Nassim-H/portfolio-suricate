@@ -51,7 +51,7 @@ const questions = [
     question: "Pourquoi est-ce que je candidate au poste de Développeur Full-Stack ?",
     answer: (
         <span>
-Grâce à mon expérience et ma formation <b>autodidacte</b> en développement web, j&apos;ai découvert une passion pour tout ce qui touche au développement, tant <em>Back-End</em> que <em>Front-End</em>. J&apos;ai principalement travaillé avec <b>PHP Laravel</b> et <b>Python Flask</b> pour le <em>Back-End</em>, et j'ai également approfondi mes compétences en design web et <em>Front-End</em>, notamment avec <b>React</b> et <b>Next.JS</b>. Ce poste chez Suricate Concept est une opportunité idéale pour combiner mes compétences et créer des projets <b>innovants</b> et <b>utiles</b> pour la société.        </span>
+Grâce à mon expérience et ma formation <b>autodidacte</b> en développement web, j&apos;ai découvert une passion pour tout ce qui touche au développement, tant <em>Back-End</em> que <em>Front-End</em>. J&apos;ai principalement travaillé avec <b>PHP Laravel</b> et <b>Python Flask</b> pour le <em>Back-End</em>, et j&apos;ai également approfondi mes compétences en design web et <em>Front-End</em>, notamment avec <b>React</b> et <b>Next.JS</b>. Ce poste chez Suricate Concept est une opportunité idéale pour combiner mes compétences et créer des projets <b>innovants</b> et <b>utiles</b> pour la société.        </span>
     )
   
   },
