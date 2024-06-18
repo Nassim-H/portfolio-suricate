@@ -10,12 +10,13 @@ const Hero: React.FC = () => {
         <div className="md:w-1/2 text-center md:text-left">
           <h1 className="text-5xl mb-2 font-bold text-primary">Nassim Hassain</h1>
           <p className="mb-4 text-lg text-gray-600">Passionné par les technologies innovantes.</p>
-          <a className="mt-8 bg-secondary text-white py-2 px-4 rounded-full hover:shadow-xl transition duration-300" href='#suricate'  >
+          <a className="mt-8 bg-secondary text-white py-2 px-1 rounded-full hover:shadow-xl transition duration-300" href='#suricate'  >
             Pourquoi je veux rejoindre Suricate Concept ? 
           </a>
         </div>
         <div className="md:w-1/2 mt-8 md:mt-0 flex justify-center md:justify-end">
-          <Image src="suricate-bebe.webp" alt="Illustration" className="w-full h-auto rounded-lg shadow-lg" />
+          <Image src="/suricate-bebe.webp" alt="Illustration" className="w-full h-auto rounded-lg shadow-lg" width={500}
+      height={500} />
         </div>
       </div>
     </section>

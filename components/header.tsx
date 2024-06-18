@@ -12,7 +12,7 @@ const Header: React.FC = () => {
     <header className="bg-primary shadow-md">
       <div className="container mx-auto flex justify-between items-center py-4 px-6">
         <div className="text-2xl font-bold text-secondary">
-          Mon Portfolio
+          Le Suricate DZ
         </div>
         <nav className="hidden md:flex space-x-6">
           <a href="#moi" className="text-gray-800 hover:text-secondary transition duration-300">Pourquoi Moi ?</a>
